@@ -1,0 +1,50 @@
+[
+    {
+      "name":"classical music",
+      "price":"$300",
+      "description":"Classical music is a term that most commonly refers to the formal musical tradition of the Western world, considered to be distinct from Western folk music or popular music traditions. In a more general sense, the term may also refer to music evidencing similar formal qualities in non-Western cultures.",
+      "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiqViXbbKnInu2irHYU9jevARRokQfUpgmXw&usqp=CAU"
+    },
+    {
+      "name":"Folk music",
+      "price":"$350",
+      "description":"Folk music is a music genre that includes traditional folk music and the contemporary genre that evolved from the former during the 20th-century folk revival. Some types of folk music may be called world music.",
+      "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYVcLf4IGh7OsBoYOQJlXh9uJ9eUMHWMdEWg&usqp=CAU"
+    },
+    {
+      "name":"Musical keyboard",
+      "price":"$400",
+      "description":"A musical keyboard is the set of adjacent depressible levers or keys on a musical instrument. Keyboards typically contain keys for playing the twelve notes of the Western musical scale, with a combination of larger, longer keys and smaller, shorter keys that repeats at the interval of an octave.",
+      "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQ561rWfuRpP9zsCIhayO72b_GNvnHL04e1w&usqp=CAU"
+    },
+    {
+      "name":"Violin",
+      "price":"$600",
+      "description":"The Arabian rabab and the rebec, which came from the orient in the middle ages and was played widely in Spain and France in the fifteenth century, are said to be the ancestors of the violin. Near the end of the middle ages, a bowed stringed instrument called a fiddle appeared in Europe.",
+      "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiN0OgPwaPGCxG2JctV1HYPXT0ex9IZe6Y9Q&usqp=CAU"
+    },
+    {
+      "name":"Guitar",
+      "price":"$300",
+      "description":"This instrument had a wooden soundboard and box-shaped body, or resonator. Two hollow arms, connected by a crossbar, extended from the resonator. The instrument originally had three strings running from the crossbar to its lower end, passing over a bridge on the soundboard; later versions had as many as 12 strings.",
+      "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxB-hB_IoKqA0bymZ-02WNtRDmzfnH6PDf6g&usqp=CAU"
+    },
+    {
+      "name":"Rock",
+      "price":"$450",
+      "description":"Rock music first grew out of the rock n-roll movement of the 1940s and 50s, which itself was inspired by country and African-American rhythm and blues from the 1920s and 30s. ... In the early 60s, California was a leading light of the electric guitar with a number of acts moving away from rock roll towards surf music.",
+      "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLXBrh-vNH_TKbJMLTc_WcLPtInosGOvsOUrtEJjSiR668VjAA7Yxu0tQ8skRCyrV-uhU&usqp=CAU"
+    },
+    {
+      "name":"Nazrul Geeti",
+      "price":"$550",
+      "description":"Nazrul Geeti or Nazrul Sangeet, literally, refers to the songs written and composed by Kazi Nazrul Islam. Nazrul Geeti incorporate revolutionary notions as well as more spiritual, philosophical and romantic themes.",
+      "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7p6UR28olYtuyQPX9dsLcJp4f6f5BdXr0aw&usqp=CAU"
+    },
+    {
+      "name":"Bass",
+      "price":"$200",
+      "description":"Bass music is a term used to describe several genres of electronic dance music and hip hop music arising from the 1980s on, focusing on a prominent bass drum and/or bassline sound. Typically, the bass sound is created using synthesizers and drum machines like, for example, the influential Roland TR-808",
+      "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNmgg3wO_qIxWobNeAw0sbgIZ615jXqRtAyw&usqp=CAU"
+    }
+  ]

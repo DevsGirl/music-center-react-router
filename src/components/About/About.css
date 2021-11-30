@@ -1,0 +1,26 @@
+.about-text{
+    text-align: justify;
+}
+.about-area{
+    display:grid;
+    grid-template-columns: repeat(2, 1fr);
+}
+.submit{
+    text-align: left;
+    padding: 5px 15px;
+    border-radius: 5px;
+    background-color: #FFC107;
+    border: none;
+}
+.round{
+    height: 300px;
+    width: 300px;
+    border-radius: 50%;
+    margin-top: 100px;
+}
+.theme-bg{
+    background-color: #100726;
+}
+.title{
+    margin-top: 50px;
+}

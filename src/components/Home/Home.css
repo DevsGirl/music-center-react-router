@@ -1,0 +1,17 @@
+.feedback{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    margin-top: 100px;
+    margin-bottom: 50px;
+    padding: 50px 0;
+}
+.feedback-text{
+    text-align: justify;
+    padding: 20px;
+}
+ .bg{
+     background-color: #F1F3F4;
+ }
+ .text{
+     margin-top: 200px;
+ }

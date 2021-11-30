@@ -1,0 +1,24 @@
+
+/*copyright*/
+.footer-bg {
+
+ display: grid;
+ grid-template-columns: repeat(2,1fr);
+ margin-top: 50px;
+}
+.copyright p {
+    margin-bottom: 0;
+}
+.footer-menu ul li {
+ display: flex;
+ justify-content: center;
+ align-items: center;
+}
+.footer-menu {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.copyright-border{
+ border-top: 2px solid #FFC107;
+}
